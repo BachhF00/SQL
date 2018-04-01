@@ -6,10 +6,10 @@ currently planned collections:
 
 - AdminScripts
 - Installers
-- ADMDW
+- Managed Instance
 - Documents
 
-## Details:
+## Details
 
 Lorem ipsum dolor sit amet, fabulas luptatum definitionem vis id, saepe nemore conclusionemque id vim. Eos timeam dolorem no, appareat ponderum perfecto vix no. Movet possim comprehensam ne sed. Ubique deleniti invidunt vix ne. Sed no inani definiebas.
 
